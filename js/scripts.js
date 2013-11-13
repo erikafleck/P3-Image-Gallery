@@ -1,5 +1,8 @@
 // JavaScript Document
 
+$(document).ready(function() {
+    $('#animals_show').fotorama();
+  });
 
 // Slider Kit execution
 $(window).load(function(){ //$(window).load() must be used instead of $(document).ready() because of Webkit compatibility				
