@@ -1,0 +1,110 @@
+@charset "UTF-8";
+/* CSS Document */
+
+/* Background */
+body {
+	background-image:url(../img/1_wht.jpg);
+}
+
+.color_green {
+	padding-top:10px;
+	}	
+
+.box_info {
+	padding-left:20px;
+	padding-right:20px;
+}
+
+/* Images */
+img {
+	margin-bottom: 10px;
+}
+
+/* Nav Bar */
+nav li a {
+	color:#4ECDC4;
+	font-family: 'Playfair Display', serif, 900;
+	font-size: 21px;
+	padding-bottom: 0;
+}
+
+nav li a:hover {
+	color:#C44D58;
+}
+
+.nav {
+	padding-left:20px;
+}
+.navbar {
+	margin:0;
+}
+
+.navcolor {
+	background-color:rgba(78,205,196,.25);	
+}
+
+/* Carousel */
+.carousel{
+	width:570px; height:570px;
+	}
+
+
+/* Grid View */
+
+.col-md-3 {
+	position: relative;
+}
+
+.col-md-3 h3 {
+	background:#07928B;
+	padding: 10px 0;
+	position: absolute;
+	font-size: 16px;
+	top: 110px;
+	right: 0px;
+}
+
+/* Headings */
+h1 {
+	color:#C44D58;
+	font-family: 'Sacramento', cursive;
+	font-size: 80px;
+	padding-top:20px;
+	padding-bottom: 20px;
+	text-align: center;
+}
+
+h2 {
+	color:#4ECDC4;
+	font-family: 'Snippet', sans-serif;
+	font-size: 32px;
+	padding-bottom:10px;
+	text-align:left;
+}
+
+h3 {
+	color:#FF6B6B;
+	font-family: 'Snippet', sans-serif;
+	font-size: 26px;
+}
+
+h4 {
+	color:#4ECDC4;
+	font-family: 'Snippet', sans-serif;
+	font-size: 21px;
+}
+
+p {
+	color:#556270;
+	font-family: 'Playfair Display', serif;
+}
+
+/* Layout */
+
+.gall {
+	padding-left:30px;
+}
+
+
+	
+	
